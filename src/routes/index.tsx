@@ -13,11 +13,11 @@ import doc from "@/assets/project-doc.jpg";
 import music from "@/assets/project-music.jpg";
 import travel from "@/assets/project-travel.jpg";
 import geminiImg from "@/assets/Gemini_Generated_Image_p61z8tp61z8tp61z.png";
-import weddingVideo from "@/assets/final-result.mp4";
-import shortVideo2 from "@/assets/short-video-2.mp4";
-import photoslidesVideo from "@/assets/photoslids-effects.mp4";
-import socialMediaVideo from "@/assets/social-media-video.mp4";
-import nightModeVideo from "@/assets/night-mode-video.mov";
+const weddingVideo = "/assets/final-result.mp4";
+const shortVideo2 = "/assets/short-video-2.mp4";
+const photoslidesVideo = "/assets/photoslids-effects.mp4";
+const socialMediaVideo = "/assets/social-media-video.mp4";
+const nightModeVideo = "/assets/night-mode-video.mov";
 import thumbnail2 from "@/assets/thumbnail-2.jpg";
 
 export const Route = createFileRoute("/")({
